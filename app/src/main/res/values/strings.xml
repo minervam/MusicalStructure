@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="select_category">Select a Category</string>
+
+    <!-- Category name for songs from the 60's [CHAR LIMIT=20] -->
+    <string name="sixties_songs">Phrases</string>
+
+    <!-- Category name for songs from the 70's [CHAR LIMIT=20] -->
+    <string name="seventies_songs">Colors</string>
+
+    <!-- Category name for songs from the 80's [CHAR LIMIT=20] -->
+    <string name="eighties_songs">Numbers</string>
+
+    <!-- Category name for the songs from the 90's [CHAR LIMIT=20] -->
+    <string name="nineties_songs">Family Members</string>
+</resources>

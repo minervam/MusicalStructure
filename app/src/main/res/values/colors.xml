@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color of the main screen -->
+    <color name="background_main">#212121</color>
+
+    <!-- Background color for the sixties category -->
+    <color name="background_60s">#FD7038</color>
+
+    <!-- Background color for the seventies category -->
+    <color name="background_70s">#FD8E09</color>
+
+    <!-- Background color for the eighties category -->
+    <color name="background_80s">#379237</color>
+
+    <!-- Background color for the nineties category -->
+    <color name="background_90s">#8800A0</color>
+
+</resources>

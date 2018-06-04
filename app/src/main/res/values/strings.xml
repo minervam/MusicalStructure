@@ -4,14 +4,17 @@
     <string name="select_category">Select a Category</string>
 
     <!-- Category name for songs from the 60's [CHAR LIMIT=20] -->
-    <string name="sixties_songs">60\'s Music</string>
+    <string name="sixties_songs">Hits from the 60\'s</string>
 
     <!-- Category name for songs from the 70's [CHAR LIMIT=20] -->
-    <string name="seventies_songs">70\'s Music</string>
+    <string name="seventies_songs">Hits from the 70\'s</string>
 
     <!-- Category name for songs from the 80's [CHAR LIMIT=20] -->
-    <string name="eighties_songs">80\'s Music</string>
+    <string name="eighties_songs">Hits from the 80\'s</string>
 
     <!-- Category name for the songs from the 90's [CHAR LIMIT=20] -->
-    <string name="nineties_songs">90\'s Music</string>
+    <string name="nineties_songs">Hits from the 90\'s</string>
+
+    <!-- For Now Playing [CHAR LIMIT=20] -->
+    <string name="now_playing">Now Playing</string>
 </resources>
